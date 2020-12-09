@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Rohan Kashyap. I am a Software Engineer at Tech Mahindra Ltd. in India. I've previously worked on Java Web technologies and recently switched to MEAN stack development to create things differently. Fell in love with Node when I created my first API with it. Decided to carry on with it, which brings us to today.
+I am Rohan Kashyap. I am a Software Engineer at Tech Mahindra Ltd. in India. I've previously worked on Java Web technologies and Spring Boot. Recently, switched to MEAN stack development to create things differently. Fell in love with Node when I created my first API with it. Decided to carry on with it, which brings us to today.
 
 A Gamer and an Otaku!! I can help you compile a list of PC parts for your next Big rig.  
 
