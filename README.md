@@ -9,4 +9,4 @@ A Gamer and an Otaku!! I can help you compile a list of PC parts for your next B
 - 👯 I’m looking to collaborate on anything matching my current expertise OR something new and head scratching enough.
 - 🤔 I’m looking for help to dive deep in MEAN where the sunlight never reaches.
 - 💬 Ask me about anything mentioned above. I'll help you learn.
-
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rhnkashyap), [GitHub](https://github.com/rhnkashyap), [Facebook](https://www.facebook.com/rhnkashyap), [Twitter](https://twitter.com/rhnkashyap)
